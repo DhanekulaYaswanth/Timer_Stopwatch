@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timer_stopwatch/static/css/main.5f9a23f7.css",
+    "main.js": "/timer_stopwatch/static/js/main.bf0297c2.js",
+    "index.html": "/timer_stopwatch/index.html",
+    "main.5f9a23f7.css.map": "/timer_stopwatch/static/css/main.5f9a23f7.css.map",
+    "main.bf0297c2.js.map": "/timer_stopwatch/static/js/main.bf0297c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f9a23f7.css",
+    "static/js/main.bf0297c2.js"
+  ]
+}
